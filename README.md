@@ -1,8 +1,12 @@
-## Olá, Bem Vindos!
-Me chamo Geovane, tenho 20 anos e atualmente estou conhecendo
+## <i>Olá, Bem Vindos!</i>
+
+<li>Meu nome é Geovane, tenho 20 anos e iniciei minha jornada no mundo da programação em Julho de 2022, e atualmente estudo para ser Desenvolvedor Front-End e Futuramente Full-Stack :)
 
 <div id="header" align="right">
 <img src="https://user-images.githubusercontent.com/116459583/220793426-00f38053-a1c1-4320-9f88-f1fab74ba40d.png"  width="350"/>
+  </ul>
+<br>
+
   <h2 align="center" <i>Ｃｏｎｔａｔｏ</i></h2>
 
   
@@ -12,7 +16,7 @@ Me chamo Geovane, tenho 20 anos e atualmente estou conhecendo
 <a href = "mailto:gnovaes2003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/geovanenovaes01/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <h2 align="center">
-  <h2 align="left">📈 &ensp; <i>Ａｔｉｖｉｄａｄｅ</i></h2>
+  <h2 align="left"> &ensp; <i>Github stats</i></h2>
 <div align="left">
   <a href="https://github.com/gnovaess">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=gnovaess&hide_title=true&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
