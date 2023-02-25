@@ -1,9 +1,8 @@
 <h1> <i>Olá, Bem Vindos ao meu perfil🚀</i> </h1>
 
 <ul align="left">
-  <p>🧑‍ Meu nome é Geovane, tenho 20 anos e moro em Campo Grande MS.</p>
-  <p>Iniciei minha jornada no mundo da programação em Julho de 2022, e atualmente estudo para ser Desenvolvedor Front-End e futuramente Full-Stack :)</p>
-  <p> Foco em melhorar 1% a cada dia, promovendo um bom aprendizado alinhado a uma perfeita execução</p>
+🧑‍ Meu nome é Geovane, tenho 20 anos e moro em Campo Grande MS.<br>
+🎓 Cursando Tecnologia em Análise e Desenvolvimento de Sistemas.<br>
 </ul>
 <br>
 <div id="header" align="right">
