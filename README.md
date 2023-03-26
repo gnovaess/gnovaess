@@ -28,7 +28,5 @@
   <a href="https://www.linkedin.com/in/geovanenovaes01/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge">
   </a>
-  <br>
-  <br>
   <img src="https://img.shields.io/badge/Currículo-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" alt="Resume badge">
 </div>
