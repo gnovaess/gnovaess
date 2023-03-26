@@ -2,12 +2,18 @@
 
 <ul>
   <li>🧑‍ Meu nome é Geovane, tenho 20 anos e moro em Campo Grande MS.</li>
-  <li>🎓 Cursando Tecnologia em Análise e Desenvolvimento de Sistemas.</li>
+  <li>🎓 Graduando em Tecnologia em Análise e Desenvolvimento de Sistemas pela INSTED.</li>
 </ul>
-
-<div align="right">
-  <img src="https://user-images.githubusercontent.com/116459583/220793426-00f38053-a1c1-4320-9f88-f1fab74ba40d.png" width="350">
+ <br>
+<div>
+<a href="https://github.com/gnovaess">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnovaess&layout=compact&langs_count=7&theme=dracula"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=gnovaess&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+ </br>
+
+## Estou aprendendo
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/>
 
 <h2 align="center" style="margin-bottom: 0;"><i>Ｃｏｎｔａｔｏ</i></h2>
 
