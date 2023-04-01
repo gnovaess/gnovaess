@@ -1,4 +1,4 @@
-<h1><i>Olá, Bem Vindos ao meu perfil 🚀</i></h1>
+<h1><i>Olá, Bem Vindos ao meu perfil</i></h1>
 
 <ul>
   <li>🧑‍ Meu nome é Geovane, tenho 20 anos e moro em Campo Grande MS.</li>
