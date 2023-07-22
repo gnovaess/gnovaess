@@ -12,7 +12,7 @@
 </div>
  </br>
 
-# Estou aprendendo
+# Estou estudando
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
 
 <h2 align="center" style="margin-bottom: 0;"><i>Ｃｏｎｔａｔｏ</i></h2>
