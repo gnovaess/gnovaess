@@ -1,8 +1,7 @@
 <h1><i>Olá, Bem Vindos ao meu perfil</i></h1>
-
 <ul>
-  <li> 👨‍💻 Me chamo Geovane, tenho 20 anos e moro em Campo Grande MS.</li>
-  <li>🎓 Graduando em Tecnologia em Análise e Desenvolvimento de Sistemas pela INSTED.</li>
+  <p> 👨‍💻 Me chamo Geovane, tenho 20 anos e moro em Campo Grande MS.</p>
+  <p>🎓 Graduando em Tecnologia em Análise e Desenvolvimento de Sistemas pela INSTED.</p>
 </ul>
  <br>
 <div>
@@ -12,12 +11,11 @@
 </div>
  </br>
 
-# Estou estudando
+## Estou estudando
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70" height="70"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70" height="70"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="70" height="70"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="70" height="70"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="70" height="70"/>
 
 <h2 align="center" style="margin-bottom: 0;"><i>Ｃｏｎｔａｔｏ</i></h2>
 
