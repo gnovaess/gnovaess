@@ -27,7 +27,7 @@
   <a href="mailto:gnovaes2003@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail badge">
   </a>
-  <a href="https://www.linkedin.com/in/geovanenovaes01/" target="_blank">
+  <a href="https://www.linkedin.com/in/gnovaess/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge">
   </a>
   <img src="https://img.shields.io/badge/Currículo-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" alt="Resume badge">
