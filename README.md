@@ -1,7 +1,7 @@
 <h1><i>Olá, Bem Vindos ao meu perfil</i></h1>
 <ul>
-  <p> 👨‍💻 Me chamo Geovane, tenho 20 anos e moro em Campo Grande MS</p>
-  <p>🎓 Graduando em Tecnologia em Análise e Desenvolvimento de Sistemas pela Faculdade INSTED</p>
+  <p> 👨‍💻 Me chamo Geovane, tenho 23 anos e moro em Campo Grande MS</p>
+  <p>🎓 Formado em Tecnologia em Análise e Desenvolvimento de Sistemas pela Faculdade INSTED</p>
 </ul>
  <br>
   <div>
