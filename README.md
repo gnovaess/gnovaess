@@ -38,6 +38,14 @@ Me chamo Geovane Novaes, tenho 23 anos e sou graduado em **Análise e Desenvolvi
 </div>
 
 <div align="center">
+
+### ⭐ Obrigado pela visita!
+
+Sinta-se à vontade para explorar meus repositórios e acompanhar minha jornada como desenvolvedor.
+
+</div>
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=C3C3C3&height=70&section=footer" width="100%" />
 </div>
   
